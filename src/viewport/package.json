@@ -1,0 +1,31 @@
+{
+  "name": "viewport",
+  "version": "1.0.0",
+  "description": "react-redux demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run watch"
+  },
+  "author": "kyy",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.3",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.23.0",
+    "babel-plugin-transform-react-constant-elements": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "memory-fs": "0.3.0",
+    "style-loader": "^0.13.2",
+    "css-loader": "^0.26.2",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
